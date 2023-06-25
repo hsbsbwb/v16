@@ -84,7 +84,7 @@ async def _(event):
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ SOURCE TNT : @M_6_Qn**
+☆ SOURCE 🐊 : @M_6_Qn**
 
 -قـم بأرسال `.الاوامر`
 ''')
